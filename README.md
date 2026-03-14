@@ -42,7 +42,7 @@ Analyzed ChatGPT mobile users in India (~20M total):
 
 ### User Research
 
-**Method:** Mom Test survey of 10 college students  
+**Method:** Mom Test survey of 30 college students  
 **Sample:** 90% Android, 87.5% heavy ChatGPT users
 
 **Key Findings:**
@@ -153,7 +153,7 @@ Students experience moments where typing ChatGPT queries is inconvenient (walkin
 - Especially critical for India: Handles Hinglish/code-switching better
 - User can verify "neural networks" transcribed correctly before sending
 
-[**→ View Interactive Prototype**](#) *(Link to Figma)*
+[**→ View Interactive Prototype**](#) *(https://www.figma.com/make/S5FLiqxrB0uDnJu5T9wShq/Implement-Wireframe-Details?fullscreen=1&t=r1zI5RBK19FZTHXV-1)*
 
 ---
 
@@ -264,10 +264,10 @@ Students knew voice existed (100% awareness) but never thought to use it (78%). 
 
 ## 📂 Deliverables
 
-- [📊 User Research Survey Results](#) *(Link to data)*
-- [🎯 Problem Framing Canvas](#) *(Link to canvas)*
-- [🎨 Wireframes & User Flows](#) *(Link to Whimsical)*
-- [🖼️ Interactive Prototype - Real-Time Transcription](#) *(Link to Figma)*
+
+- [🎯 Problem Framing Canvas](#) *()*
+- [🎨 Wireframes & User Flows](#) *(https://whimsical.com/aniketp/chatgpt-voice-solution-5D19co6usX96JczGqdCkQt)*
+- [🖼️ Interactive Prototype - Real-Time Transcription](#) *(https://www.figma.com/make/S5FLiqxrB0uDnJu5T9wShq/Implement-Wireframe-Details?fullscreen=1&t=r1zI5RBK19FZTHXV-1)*
 - [📑 Final Presentation Deck](#) *(Link to PDF)*
 
 ---
@@ -291,67 +291,7 @@ This case study demonstrates end-to-end product thinking:
 - **Prototyping:** Visualizing concepts for validation
 
 **Limitations:**
-- Small sample size (10 responses) — would expand to 50-100 for production
+- Small sample size (30 responses) — would expand to 100+ for production
 - No user testing of prototypes yet — next step would be usability testing
 - India-focused — would need regional research for global rollout
 
-**Contact:** [Your Email] | [LinkedIn] | [Portfolio]
-
----
-
-**Last Updated:** March 2025
-```
-
----
-
-## **2. PORTFOLIO WEBSITE STRUCTURE**
-
-Here's how to organize your GitHub portfolio with both case studies:
-
-### **Option A: Simple GitHub Pages Structure**
-```
-your-username.github.io/
-│
-├── index.html                    # Homepage with both projects
-├── style.css                     # Global styles
-│
-├── /spotify-case-study           # Project 1
-│   ├── index.html
-│   ├── /images
-│   └── README.md
-│
-└── /chatgpt-voice-case-study    # Project 2
-    ├── index.html
-    ├── /research
-    ├── /wireframes
-    ├── /prototypes
-    └── README.md
-```
-
-### **Option B: Better Portfolio Structure (Recommended)**
-```
-your-username.github.io/
-│
-├── index.html                    # Landing page
-├── about.html                    # About you
-├── style.css
-│
-├── /projects                     # All case studies
-│   ├── index.html               # Projects grid/list
-│   │
-│   ├── /spotify-redesign
-│   │   ├── index.html
-│   │   ├── /assets
-│   │   └── README.md
-│   │
-│   └── /chatgpt-voice-india
-│       ├── index.html
-│       ├── /research
-│       ├── /wireframes
-│       ├── /prototypes
-│       └── README.md
-│
-└── /assets
-    ├── /images
-    ├── /css
-    └── /js
