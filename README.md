@@ -264,11 +264,11 @@ Students knew voice existed (100% awareness) but never thought to use it (78%). 
 
 ## 📂 Deliverables
 
-
-- [🎯 Problem Framing Canvas](#) *()*
+- [Mapping Product Outcomes](#). *(https://assets.nextleap.app/submissions/Milestone1-68aba101-09e2-4c01-aa34-32c697782a62.pdf)*
+- [User Research](#) *(https://assets.nextleap.app/submissions/Presentation-UserSegmentationTargetSelection-695eba44-7654-4158-ae4b-0da1728d1040.pdf)*
 - [🎨 Wireframes & User Flows](#) *(https://whimsical.com/aniketp/chatgpt-voice-solution-5D19co6usX96JczGqdCkQt)*
 - [🖼️ Interactive Prototype - Real-Time Transcription](#) *(https://www.figma.com/make/S5FLiqxrB0uDnJu5T9wShq/Implement-Wireframe-Details?fullscreen=1&t=r1zI5RBK19FZTHXV-1)*
-- [📑 Final Presentation Deck](#) *(Link to PDF)*
+- [📑 Product Requirement Document](#) *(https://assets.nextleap.app/submissions/ChatGPT-Voice-Input1-d8d3e992-82e4-4ffe-b402-e31a5b412142.pdf)*
 
 ---
 
